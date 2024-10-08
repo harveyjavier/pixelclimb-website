@@ -1,7 +1,5 @@
 import Image from "next/image";
 import bluePixel1 from "./images/blue-pixel-1.png";
-import bluePixel2 from "./images/blue-pixel-2.png";
-import bluePixel3 from "./images/blue-pixel-3.png";
 import gamePreview from "./images/game-preview.gif";
 
 export default function Home() {
