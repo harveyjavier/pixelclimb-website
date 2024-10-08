@@ -1,5 +1,6 @@
 import Image from "next/image";
 import bluePixel1 from "./images/blue-pixel-1.png";
+import pcmbLogo from "./images/pcmb-logo.png";
 import gamePreview from "./images/game-preview.gif";
 
 export default function Home() {
@@ -33,6 +34,12 @@ export default function Home() {
           >
             PLAY NOW
           </a>
+          <Image
+            src={pcmbLogo}
+            alt="PCMB Logo"
+            width={80}
+            priority
+          />
           <a
             className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-[var(--blue)] text-background gap-2 hover:bg-[var(--gray)] dark:hover:bg-[#ccc] text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5"
             href="https://explorer.solana.com/address/DuZq6LWkvRwLw5t2GqbSx3BeAtSeikDVf1VKraxbMLcs?cluster=devnet"
@@ -65,10 +72,10 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          X
+          FOLLOW ON X
         </a>
         <a
-          className="pcmb-text-gray flex items-center gap-2 hover:underline hover:underline-offset-4"
+          className="pcmb-text-green flex items-center gap-2 hover:underline hover:underline-offset-4"
           href="mailto:support@pixelclimb.xyz"
           target="_blank"
           rel="noopener noreferrer"
