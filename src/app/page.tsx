@@ -21,7 +21,7 @@ export default function Home() {
             priority
           />
         </div>
-        <div className="text-center pcmb-text-gray font-[family-name:var(--font-geist-mono)]">
+        <div className="text-center pcmb-text-indigo font-[family-name:var(--font-geist-mono)]">
           <p>A HYPER CASUAL GAME POWERED BY SOLANA</p>
         </div>
         <div className="flex gap-4 items-center flex-col sm:flex-row">
@@ -45,7 +45,7 @@ export default function Home() {
       </main>
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
         <a
-          className="pcmb-text-gray flex items-center gap-2 hover:underline hover:underline-offset-4"
+          className="pcmb-text-orange flex items-center gap-2 hover:underline hover:underline-offset-4"
           href="https://docs.google.com/presentation/d/16RyBghsvNW822D_68EvWE-_b2ZL5Y8TkQRFif1F48lc/edit?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
