@@ -3,6 +3,7 @@
 This is the website of [Pixel Climb](https://play.google.com/store/apps/details?id=com.harvz.pixelclimb) game, and entry for the following hackatons:
 - [Colosseum](https://arena.colosseum.org/)
 - [Solana Radar Philippines Local Track](https://earn.superteam.fun/listings/hackathon/solana-radar-philippines-local-track/)
+- [PGDX Solana x YGG GameJam](https://earn.superteam.fun/listings/bounty/pgdx-solana-x-ygg-gamejam/)
 - [DOST | DICT | DTI Region 5 Hyperlocal Track](https://earn.superteam.fun/listings/hackathon/dost-or-dict-or-dti-region-5-hyperlocal-track/)
 
 ## Other links
